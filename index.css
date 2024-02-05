@@ -1,0 +1,47 @@
+* {
+  margin: 0px;
+}
+.container {
+  background-color: antiquewhite;
+  border: 5px solid black;
+  margin: auto;
+  padding: auto;
+}
+p {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 10px;
+}
+.data1 {
+  margin: auto;
+  text-align: center;
+}
+
+.data2 {
+  margin: auto;
+  margin-top: 50px;
+}
+.data3 {
+  margin-left: 200px;
+  margin-top: 50px;
+}
+#heading1 {
+  font-size: xx-large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-bottom: 20px;
+}
+
+#heading2 {
+  margin: auto;
+  text-align: center;
+  font-size: xx-large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#img1 {
+  border-radius: 50px;
+}
+.data4 p {
+  text-align: end;
+  font-size: larger;
+}
